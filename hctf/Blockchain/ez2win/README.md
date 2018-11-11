@@ -1,5 +1,5 @@
-##ez2win 
-###Description 
+## ez2win 
+### Description 
 0x71feca5f0ff0123a60ef2871ba6a6e5d289942ef for ropsten
 D2GBToken is onsale. we will airdrop each person 10 D2GBTOKEN. You can transcat with others as you like.  
 only winner can get more than 10000000, but no one can do it.
@@ -19,4 +19,4 @@ hint2: now open source for you, and its really ez
 Base Score 1000.00   
 Now Score 541.47   
 Team solved 14  
-##writewp
+## writewp

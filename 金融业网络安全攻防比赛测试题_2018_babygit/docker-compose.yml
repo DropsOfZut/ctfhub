@@ -1,0 +1,8 @@
+version: '3'
+services:
+  nginx:
+    image: vulhub/nginx:1
+    volumes:
+      - ./src/:/usr/share/nginx/html/
+    ports:
+      - "5001:80"

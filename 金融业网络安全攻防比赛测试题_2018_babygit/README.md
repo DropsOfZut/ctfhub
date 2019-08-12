@@ -17,9 +17,15 @@ http://127.0.0.1:5001
 
 ## 解题方法
 
-首先进行目录扫描，可以发现存在.git目录，使用Githack工具将目录保存到本地。
-
+1. 首先进行目录扫描，可以发现存在.git目录，使用Githack工具将目录保存到本地。
 工具：https://github.com/BugScanTeam/GitHack
+![](./files/1.png)
+
+2. 使用git log命令进行查看
+![](./files/2.png)
+3. 看到有一个commit操作是add flag，使用git checkout 6d81fc8命
+令切换到add flag操作时的状态，就可以看到flag
+![](./files/3.png)
 
 ## 拓展延申
 
